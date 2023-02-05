@@ -1,0 +1,1 @@
+# c-matris-elemaninin-komsusunu-bulma
